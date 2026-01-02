@@ -77,21 +77,6 @@ Identical input matrices were tested in both Julia and SageMath, yielding a **10
 
 ---
 
-## 📂 Repository Structure
-
-.
-├── classical_snf/
-├── modular_snf/
-├── fraction_free_snf/
-├── divide_and_conquer_snf/
-├── determinant_based_snf/
-├── benchmarks/
-├── validation/
-└── README.md
-
-
----
-
 ## 🎯 Key Takeaways
 
 - No single SNF algorithm is optimal for all cases
